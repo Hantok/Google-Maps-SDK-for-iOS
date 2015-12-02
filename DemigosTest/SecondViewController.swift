@@ -25,7 +25,7 @@ class SecondViewController: ParentViewController {
             let results = (response.responseJSON!["results"] as! NSArray)[0] as! NSDictionary
             let position = self.getPosition(results)
             let title = results["formatted_address"] as! String
-            self.addMarker(position, title: title, color: UIColor.blueColor())
+            self.addMarker(position, title: title, color: UIColor.greenColor())
             //print("departure - \(title)")
           } else {
             //print("departure - \(response.responseJSON)")
