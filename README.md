@@ -7,6 +7,8 @@ Before open the project install Google-Maps-SDK-for-iOS using pod:
 
 <b>$ pod install</b>
 
+Run DemigosTest.xcworkspace
+
 The MIT License
 
 Copyright (c) 2015 Roman Slysh

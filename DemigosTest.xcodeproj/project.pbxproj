@@ -27,7 +27,6 @@
 		4ECECFA91C0F70480092BA0B /* RSResponse.swift in Sources */ = {isa = PBXBuildFile; fileRef = 4ECECFA31C0F70480092BA0B /* RSResponse.swift */; };
 		4ECECFAA1C0F70480092BA0B /* RSURLSessionDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = 4ECECFA41C0F70480092BA0B /* RSURLSessionDelegate.swift */; };
 		4ECECFAB1C0F70480092BA0B /* String.swift in Sources */ = {isa = PBXBuildFile; fileRef = 4ECECFA51C0F70480092BA0B /* String.swift */; };
-		77C147408B131B71CC256D47 /* Pods_DemigosTest.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 95AAE0EE50464F3B48D75932 /* Pods_DemigosTest.framework */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -69,7 +68,6 @@
 		4ECECFA41C0F70480092BA0B /* RSURLSessionDelegate.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; name = RSURLSessionDelegate.swift; path = Networking/RSURLSessionDelegate.swift; sourceTree = "<group>"; };
 		4ECECFA51C0F70480092BA0B /* String.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; name = String.swift; path = Networking/String.swift; sourceTree = "<group>"; };
 		4EFF2512ECBFF13F93E6ABB3 /* Pods-DemigosTest.debug.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; name = "Pods-DemigosTest.debug.xcconfig"; path = "Pods/Target Support Files/Pods-DemigosTest/Pods-DemigosTest.debug.xcconfig"; sourceTree = "<group>"; };
-		95AAE0EE50464F3B48D75932 /* Pods_DemigosTest.framework */ = {isa = PBXFileReference; explicitFileType = wrapper.framework; includeInIndex = 0; path = Pods_DemigosTest.framework; sourceTree = BUILT_PRODUCTS_DIR; };
 		B6436DC9211B2151246429A6 /* Pods-DemigosTest.release.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; name = "Pods-DemigosTest.release.xcconfig"; path = "Pods/Target Support Files/Pods-DemigosTest/Pods-DemigosTest.release.xcconfig"; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
@@ -78,7 +76,6 @@
 			isa = PBXFrameworksBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
-				77C147408B131B71CC256D47 /* Pods_DemigosTest.framework in Frameworks */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
@@ -95,7 +92,6 @@
 		2EF7F8323D2D49C00BDA7D91 /* Frameworks */ = {
 			isa = PBXGroup;
 			children = (
-				95AAE0EE50464F3B48D75932 /* Pods_DemigosTest.framework */,
 			);
 			name = Frameworks;
 			sourceTree = "<group>";
