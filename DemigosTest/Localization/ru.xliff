@@ -1,0 +1,72 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<xliff xmlns="urn:oasis:names:tc:xliff:document:1.2" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" version="1.2" xsi:schemaLocation="urn:oasis:names:tc:xliff:document:1.2 http://docs.oasis-open.org/xliff/v1.2/os/xliff-core-1.2-strict.xsd">
+  <file original="DemigosTest/Base.lproj/LaunchScreen.storyboard" source-language="en" datatype="plaintext" target-language="ru">
+    <header>
+      <tool tool-id="com.apple.dt.xcode" tool-name="Xcode" tool-version="7.1.1" build-num="7B1005"/>
+    </header>
+    <body/>
+  </file>
+  <file original="DemigosTest/Base.lproj/Main.storyboard" source-language="en" datatype="plaintext" target-language="ru">
+    <header>
+      <tool tool-id="com.apple.dt.xcode" tool-name="Xcode" tool-version="7.1.1" build-num="7B1005"/>
+    </header>
+    <body>
+      <trans-unit id="EXP-V5-ZQ0.title">
+        <source>4</source>
+        <target>4</target>
+        <note>Class = "UITabBarItem"; title = "4"; ObjectID = "EXP-V5-ZQ0";</note>
+      </trans-unit>
+      <trans-unit id="Edg-gC-Hgn.title">
+        <source>1</source>
+        <target>1</target>
+        <note>Class = "UITabBarItem"; title = "1"; ObjectID = "Edg-gC-Hgn";</note>
+      </trans-unit>
+      <trans-unit id="aGd-mi-ZeB.title">
+        <source>5</source>
+        <target>5</target>
+        <note>Class = "UITabBarItem"; title = "5"; ObjectID = "aGd-mi-ZeB";</note>
+      </trans-unit>
+      <trans-unit id="b9f-MF-36t.title">
+        <source>6</source>
+        <target>6</target>
+        <note>Class = "UITabBarItem"; title = "6"; ObjectID = "b9f-MF-36t";</note>
+      </trans-unit>
+      <trans-unit id="qsA-hT-N9E.title">
+        <source>2</source>
+        <target>2</target>
+        <note>Class = "UITabBarItem"; title = "2"; ObjectID = "qsA-hT-N9E";</note>
+      </trans-unit>
+      <trans-unit id="z3I-qW-dad.title">
+        <source>3</source>
+        <target>3</target>
+        <note>Class = "UITabBarItem"; title = "3"; ObjectID = "z3I-qW-dad";</note>
+      </trans-unit>
+    </body>
+  </file>
+  <file original="DemigosTest/Info.plist" source-language="en" datatype="plaintext" target-language="ru">
+    <header>
+      <tool tool-id="com.apple.dt.xcode" tool-name="Xcode" tool-version="7.1.1" build-num="7B1005"/>
+    </header>
+    <body>
+      <trans-unit id="CFBundleName">
+        <source>$(PRODUCT_NAME)</source>
+      </trans-unit>
+      <trans-unit id="CFBundleShortVersionString">
+        <source>1.0</source>
+      </trans-unit>
+    </body>
+  </file>
+  <file original="DemigosTestTests/Info.plist" source-language="en" datatype="plaintext" target-language="ru">
+    <header>
+      <tool tool-id="com.apple.dt.xcode" tool-name="Xcode" tool-version="7.1.1" build-num="7B1005"/>
+    </header>
+    <body>
+      <trans-unit id="CFBundleName">
+        <source>$(PRODUCT_NAME)</source>
+      </trans-unit>
+      <trans-unit id="CFBundleShortVersionString">
+        <source>1.0</source>
+      </trans-unit>
+    </body>
+  </file>
+</xliff>
